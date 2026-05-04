@@ -1,30 +1,25 @@
 {
-  "name": "John Doe",
+  "name": "Denver Schouw",
   "photoUrl": "favicon.svg",
-  "intro": "A brief, compelling introduction about who you are and what you do. Mention your core philosophy, your passion for building digital products, and your drive for creating efficient, high-impact solutions.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
-  "webpageTitle": "John Doe",
+  "intro": "Experienced Lead Software Engineer with a strong technical background and pragmatic, enterprising approach. Adaptable and effective under pressure, with excellent analytical skills and strong relationships with management, clients, and colleagues.",
+  "introHtml": "Experienced <span class='text-white font-bold'>Lead Software Engineer</span> with a strong technical background and <span class='text-white font-bold'>pragmatic</span>, <span class='text-white font-bold'>enterprising</span> approach. Adaptable and effective under pressure, with excellent <span class='text-white font-bold'>analytical skills</span> and strong relationships with management, clients, and colleagues.",
+  "webpageTitle": "Denver Schouw",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/dschouw",
       "icon": "mdi:github"
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://www.linkedin.com/in/denverschouw/",
       "icon": "mdi:linkedin"
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:denverschouw@proton.me",
       "icon": "mdi:email"
-    },
-    {
-      "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
-      "icon": "mdi:whatsapp"
     }
   ]
 }

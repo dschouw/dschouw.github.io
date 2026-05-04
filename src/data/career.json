@@ -1,26 +1,71 @@
 [
   {
-    "company": "Demo Company",
+    "company": "Confluence",
     "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
+    "period": "Nov 2020 - Current",
     "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "description": "Work in the financial services sector, including the development of a scalable compute engine for bond price and analytics calculation, and the maintenance and enhancement of a legacy Oracle Financial Instruments database (covering bonds, equities, and currencies). Specialized in designing scalable cloud systems to support high-volume financial data processing.",
+    "skills": [
+      "Built a scalable compute engine for large-scale bond price and analytics calculation",
+      "Maintained and enhanced a legacy Oracle Financial Instruments database (bonds, equities, currencies)",
+      "Delivered cloud-native solutions using AWS (EC2, Lambda, S3)",
+      "Enhanced system performance and reliability",
+      "Mentored junior engineers and promoted best practices"
+    ]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
+    "company": "Achievement Awards Group",
+    "role": "Senior Software Development Analyst",
+    "period": "Nov 2013 - Oct 2020",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
+    "description": "Played a central role in scaling and optimizing a large loyalty system, supporting significant user growth and improved performance. Contributed to data modeling, system analysis, and team knowledge sharing within a collaborative development environment.",
+    "skills": [
+      "Scaled loyalty system from 100,000 to 1 million users with major performance improvements",
+      "Built relational data models and physical schema designs",
+      "Conducted complex system analysis and problem-solving",
+      "Facilitated team knowledge sharing and skill development",
+      "Collaborated with teams to resolve issues and enhance product functionality"
+    ]
   },
   {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "company": "Face Technologies",
+    "role": "System Analyst Developer",
+    "period": "Aug 2006 - Oct 2013",
+    "type": "Full time job",
+    "description": "Responsible for requirements gathering, system modeling, and software development to deliver solutions tailored to client needs and enhance user experience.",
+    "skills": [
+      "Gathered software requirements and created test plans",
+      "Developed system models, specifications, and diagrams for development teams",
+      "Built software applications to meet client requirements and improve user experience"
+    ]
+  },
+  {
+    "company": "Face Technologies",
+    "role": "Senior Developer / Developer",
+    "period": "Apr 1997 - Dec 2003",
+    "type": "Full time job",
+    "description": "Progressed from Developer to Senior Developer, delivering software solutions and contributing to multiple projects for public and private sector clients.",
+    "skills": [
+      "Developed and maintained software applications to meet client requirements",
+      "Collaborated with teams to deliver high-quality solutions",
+      "Supported project delivery across various domains"
+    ]
+  },
+  {
+    "company": "Skills",
+    "role": "Core Skills",
+    "period": "",
+    "type": "skills",
+    "description": "Key technical and professional skills.",
+    "skills": [
+      "Software development",
+      "Database programming",
+      "Software architecture design",
+      "Performance optimization",
+      "API development",
+      "Cloud computing expertise",
+      "Continuous integration and deployment",
+      "Testing and deployment"
+    ]
   }
 ]

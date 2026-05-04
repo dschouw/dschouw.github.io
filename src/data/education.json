@@ -1,0 +1,26 @@
+[
+  {
+    "institution": "Amazon Web Services (AWS)",
+    "qualification": "AWS Certified Cloud Practitioner",
+    "description": "Certification valid until April 2030.",
+    "skills": ["AWS Cloud", "Cloud Fundamentals"]
+  },
+  {
+    "institution": "FTI",
+    "qualification": "FTI Diploma in Business Analysis - Business/Systems Analysis",
+    "description": "Diploma in Business Analysis covering business and systems analysis methodologies.",
+    "skills": ["Business Analysis", "Systems Analysis"]
+  },
+  {
+    "institution": "Cape Technikon, Cape Town",
+    "qualification": "National Diploma Information Technology - Information Technology",
+    "description": "National Diploma in Information Technology.",
+    "skills": ["Information Technology"]
+  },
+  {
+    "institution": "Oracle Education",
+    "qualification": "Oracle 8i Certified Database Administrator - Oracle Database Administration",
+    "description": "Certification in Oracle 8i Database Administration.",
+    "skills": ["Oracle 8i", "Database Administration"]
+  }
+]

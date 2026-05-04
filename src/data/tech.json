@@ -1,34 +1,45 @@
 {
   "categories": [
     {
-      "title": "Mobile Development",
+      "title": "Cloud Platforms",
       "skills": [
-        { "name": "Flutter", "level": 3, "icon": "skill-icons:flutter-dark" },
-        { "name": "Dart", "level": 3, "icon": "skill-icons:dart-dark" },
-        { "name": "Kotlin", "level": 1, "icon": "skill-icons:kotlin-dark" }
+        { "name": "AWS", "level": 2, "icon": "vscode-icons:file-type-aws" }
+      ]
+    },
+    {
+      "title": "CI/CD & DevOps",
+      "skills": [
+        { "name": "TeamCity", "level": 2, "icon": "vscode-icons:file-type-yaml" },
+        { "name": "GitHub Actions", "level": 2, "icon": "vscode-icons:file-type-yaml" }
       ]
     },
     {
       "title": "Frontend",
       "skills": [
-        { "name": "Astro", "level": 2, "icon": "skill-icons:astro" },
         { "name": "HTML", "level": 2, "icon": "skill-icons:html" },
-        { "name": "CSS", "level": 2, "icon": "skill-icons:css" },
-        { "name": "Tailwind CSS", "level": 1, "icon": "skill-icons:tailwindcss-dark" }
+        { "name": "CSS", "level": 1, "icon": "skill-icons:css" },
+        { "name": "React", "level": 2, "icon": "skill-icons:react-dark" }
       ]
     },
     {
       "title": "Backend",
       "skills": [
-        { "name": "FastAPI", "level": 2, "icon": "skill-icons:fastapi" },
-        { "name": "Python", "level": 2, "icon": "skill-icons:python-dark" },
-        { "name": "Firebase", "level": 3, "icon": "vscode-icons:file-type-firebase" }
+        { "name": "Python", "level": 1, "icon": "skill-icons:python-dark" },
+        { "name": "JavaScript", "level": 2, "icon": "skill-icons:javascript" },
+        { "name": "PLSQL", "level": 3, "icon": "vscode-icons:file-type-plsql" },
+        { "name": "Terraform", "level": 2, "icon": "vscode-icons:file-type-terraform" },
+        { "name": "Docker", "level": 2, "icon": "vscode-icons:file-type-docker" },
+        { "name": "C#", "level": 2, "icon": "vscode-icons:file-type-csharp" },
+        { "name": "Java", "level": 1, "icon": "vscode-icons:file-type-java" },
+        { "name": ".NET WebAPI", "level": 2, "icon": "vscode-icons:file-type-csproj" }
       ]
     },
     {
       "title": "Database",
       "skills": [
-        { "name": "SQLite", "level": 3, "icon": "skill-icons:sqlite" },
+        { "name": "SQLite", "level": 1, "icon": "skill-icons:sqlite" },
+        { "name": "SqlServer", "level": 1, "icon": "vscode-icons:file-type-sql" },
+        { "name": "Oracle", "level": 3, "icon": "vscode-icons:file-type-sql" },
         { "name": "PostgreSQL", "level": 2, "icon": "skill-icons:postgresql-dark" }
       ]
     }
